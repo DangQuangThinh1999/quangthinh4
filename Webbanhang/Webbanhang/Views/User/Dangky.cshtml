@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewBag.Title = "Đăng ký";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2 style="text-align:center">ĐĂNG KÝ THÀNH VIÊN</h2>
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    <div class="modal-body modal-body-sub_agile">
+        <div class="col-md-12 modal_body_left modal_body_left1">
+            <form action="#" method="post">
+                <div class="styled-input agile-styled-input-top">
+                    <input type="text" name="HotenKH" required="">
+                    <label>HỌ VÀ TÊN</label>
+                    @ViewData["Loi1"]
+                    <span></span>
+                </div>
+                <div class="styled-input">
+                    <input type="text" name="TenDN" required="">
+                    <label>TÊN ĐĂNG NHẬP</label>
+                    @ViewData["Loi2"]
+                    <span></span>
+                </div>                    
+                <div class="styled-input">
+                    <input type="password" name="Matkhau" required="">
+                    <label>MẬT KHẨU</label>
+                    @ViewData["Loi3"]
+                    <span></span>
+                </div>
+                <div class="styled-input">
+                    <input type="password" name="Nhaplaimatkhau" required="">
+                    <label>NHẬP LẠI MẬT KHẨU</label>
+                    @ViewData["Loi4"]
+                    <span></span>
+                </div>
+                <div class="styled-input">
+                    <input type="text" name="Diachi" required="">
+                    <label>ĐỊA CHỈ</label>
+                    @ViewData["Loi7"]
+                    <span></span>
+                </div>
+                <div class="styled-input">
+                    <input type="text" name="Email" required="">
+                    <label>EMAIL</label>
+                    @ViewData["Loi5"]
+                    <span></span>
+                </div>
+                <div class="styled-input">
+                    <input type="text" name="Dienthoai" required="">
+                    <label>ĐIỆN THOẠI</label>
+                    @ViewData["Loi6"]
+                    <span></span>
+                </div>
+                <div class="styled-input">
+                    
+                    <input style="margin-top:22px" type="date" name="Ngaysinh" required="">
+                    <label>NGÀY SINH</label>    
+                    <span></span>
+                </div>
+                <div>
+                    <span>Đăng ký đồng nghĩa với đồng ý <a href="#">chính sách riêng tư</a> của chúng tôi.</span>
+                </div><br />
+                <input type="submit" value="Đăng ký">
+            </form>
+            <div class="clearfix"></div>
+        </div>
+    </div>        
+}
+
+
+

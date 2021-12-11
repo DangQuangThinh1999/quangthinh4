@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Webbanhang.Models.LOAI>
+
+@{
+    ViewBag.Title = "Quản lý loại";
+    Layout = "~/Views/Shared/_LayoutPAdmin.cshtml";
+}
+
+    <h2 style="text-align:center;">QUẢN LÝ LOẠI</h2><br />
+<div class="container">
+    <p>
+        @Html.ActionLink("THÊM MỚI", "Themmoiloai")
+    </p>
+    <table class="table" border="1">
+        <tr>
+            <th>
+                Tên loại
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenLoai)
+                </td>
+                <td>
+                    @Html.ActionLink("Sửa", "Sualoai", new { id = item.MaL }) |
+                    @Html.ActionLink("Xóa", "Xoaloai", new { id = item.MaL })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

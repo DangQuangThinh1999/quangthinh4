@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "Đăng nhập";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<table align="center">
+    <h3 style="text-align:center">ĐĂNG NHẬP</h3>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <div class="modal-body modal-body-sub_agile">
+            <div class="col-md-2"></div>
+            <div class="col-md-8 modal_body_left modal_body_left1">
+                <form action="#" method="post">
+                    <div class="styled-input agile-styled-input-top">
+                        <input type="text" name="TenDN" required="">
+                        <label>TÊN ĐĂNG NHẬP</label>
+                        @ViewData["Loi1"]
+                        <span></span>
+                    </div>
+                    <div class="styled-input">
+                        <input type="password" name="Matkhau" required="">
+                        <label>MẬT KHẨU</label>
+                        @ViewData["Loi2"]
+                        <span></span>
+                    </div>
+                    <h4 style="color: red; text-align:center">@ViewBag.Thongbao</h4>
+                    <br />                    
+                    <input type="submit" value="Đăng nhập">
+                </form>
+                <div class="clearfix"></div>
+            </div>
+            <div class="col-md-2"></div>
+        </div> 
+    }
+</table>
+
+

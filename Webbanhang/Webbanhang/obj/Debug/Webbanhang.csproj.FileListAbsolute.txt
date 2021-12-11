@@ -1,0 +1,234 @@
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\ApplicationInsights.config
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\csc.exe
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\System.Collections.Immutable.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\vbc.exe
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\VBCSCompiler.exe
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\roslyn\VBCSCompiler.exe.config
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Webbanhang.dll.config
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Webbanhang.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Webbanhang.pdb
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Antlr3.Runtime.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.AI.Agent.Intercept.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.AI.DependencyCollector.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.AI.Web.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.AI.WindowsServer.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.ApplicationInsights.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.Web.Infrastructure.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Newtonsoft.Json.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.Helpers.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.Mvc.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.Optimization.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.Razor.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.WebPages.Deployment.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.WebPages.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.WebPages.Razor.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\WebGrease.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Antlr3.Runtime.pdb
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.AI.DependencyCollector.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.AI.Web.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.AI.WindowsServer.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.ApplicationInsights.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\Newtonsoft.Json.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.Helpers.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.Mvc.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.Optimization.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.Razor.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.WebPages.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.WebPages.Deployment.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\bin\System.Web.WebPages.Razor.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\obj\Debug\Webbanhang.csprojResolveAssemblyReference.cache
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\obj\Debug\Webbanhang.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\Webbanhang\Webbanhang\obj\Debug\Webbanhang.pdb
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\WebBanHang\Webbanhang\bin\PagedList.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\WebBanHang\Webbanhang\bin\PagedList.Mvc.dll
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\WebBanHang\Webbanhang\bin\PagedList.xml
+C:\1st\DoAnChuyenNganh\DoAnChuyenNganh\doan\WebBanHang\Webbanhang\bin\PagedList.Mvc.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\ApplicationInsights.config
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\csc.exe
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\System.Collections.Immutable.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\System.Reflection.Metadata.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\vbc.exe
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\VBCSCompiler.exe
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\VBCSCompiler.exe.config
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Webbanhang.dll.config
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Webbanhang.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Webbanhang.pdb
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Antlr3.Runtime.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.DependencyCollector.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.Web.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.WindowsServer.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.ApplicationInsights.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.Web.Infrastructure.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Newtonsoft.Json.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\PagedList.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\PagedList.Mvc.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Helpers.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Mvc.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Optimization.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Razor.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.Deployment.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.Razor.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\WebGrease.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Antlr3.Runtime.pdb
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.DependencyCollector.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.Web.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.WindowsServer.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.ApplicationInsights.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Newtonsoft.Json.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\PagedList.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\PagedList.Mvc.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Helpers.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Mvc.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Optimization.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Razor.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.Deployment.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.Razor.xml
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\obj\Debug\Webbanhang.csprojAssemblyReference.cache
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\obj\Debug\Webbanhang.csproj.CoreCompileInputs.cache
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\obj\Debug\Webbanhang.csproj.CopyComplete
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\obj\Debug\Webbanhang.dll
+D:\thinh_cute\thinh_cute\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\obj\Debug\Webbanhang.pdb
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\ApplicationInsights.config
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\csc.exe
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\System.Collections.Immutable.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\System.Reflection.Metadata.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\vbc.exe
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\VBCSCompiler.exe
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\roslyn\VBCSCompiler.exe.config
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Webbanhang.dll.config
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Webbanhang.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Webbanhang.pdb
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Antlr3.Runtime.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.DependencyCollector.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.Web.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.WindowsServer.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.ApplicationInsights.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.Web.Infrastructure.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Newtonsoft.Json.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\PagedList.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\PagedList.Mvc.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Helpers.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Mvc.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Optimization.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Razor.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.Deployment.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.Razor.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\WebGrease.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Antlr3.Runtime.pdb
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.DependencyCollector.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.Web.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.AI.WindowsServer.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.ApplicationInsights.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\Newtonsoft.Json.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\PagedList.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\PagedList.Mvc.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Helpers.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Mvc.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Optimization.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.Razor.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.Deployment.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\bin\System.Web.WebPages.Razor.xml
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\obj\Debug\Webbanhang.csprojAssemblyReference.cache
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\obj\Debug\Webbanhang.csproj.CoreCompileInputs.cache
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\obj\Debug\Webbanhang.csproj.CopyComplete
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\obj\Debug\Webbanhang.dll
+D:\LAP_TOP\MVC\DACS_NgoQuyThanhKim_1800000009\Webbanhang\Webbanhang\obj\Debug\Webbanhang.pdb
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\ApplicationInsights.config
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\csc.exe
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\System.Collections.Immutable.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\System.Reflection.Metadata.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\vbc.exe
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\VBCSCompiler.exe
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\roslyn\VBCSCompiler.exe.config
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Webbanhang.dll.config
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Webbanhang.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Webbanhang.pdb
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Antlr3.Runtime.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.AI.DependencyCollector.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.AI.Web.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.AI.WindowsServer.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.ApplicationInsights.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.Web.Infrastructure.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Newtonsoft.Json.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\PagedList.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\PagedList.Mvc.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.Helpers.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.Mvc.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.Optimization.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.Razor.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.WebPages.Deployment.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.WebPages.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.WebPages.Razor.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\WebGrease.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Antlr3.Runtime.pdb
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.AI.DependencyCollector.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.AI.Web.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.AI.WindowsServer.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.ApplicationInsights.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\Newtonsoft.Json.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\PagedList.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\PagedList.Mvc.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.Helpers.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.Mvc.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.Optimization.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.Razor.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.WebPages.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.WebPages.Deployment.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\bin\System.Web.WebPages.Razor.xml
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\obj\Debug\Webbanhang.csprojAssemblyReference.cache
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\obj\Debug\Webbanhang.csproj.CoreCompileInputs.cache
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\obj\Debug\Webbanhang.csproj.CopyComplete
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\obj\Debug\Webbanhang.dll
+D:\LAP_TOP\MVC\selling sports equipment\Webbanhang\Webbanhang\obj\Debug\Webbanhang.pdb

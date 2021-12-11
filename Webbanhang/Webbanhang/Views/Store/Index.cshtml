@@ -1,0 +1,84 @@
+﻿@using Webbanhang.Models;
+@using PagedList.Mvc;
+@model PagedList.PagedList<SANPHAM>
+
+@{
+    ViewBag.Title = "Cửa hàng dụng cụ thể thao";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+    <h3 style="text-align:center; color:red"> SẢN PHẨM MỚI </h3>
+    @foreach (var sp in Model)
+    {
+        <div class="col-sm-4 col-lg-1-lg-4 col-md-4">
+            <div class="thumbnail" style="height:465px;">                
+                <a href="@Url.Action("Details", "Store", new { id = sp.MASP })">
+                    
+                        
+                  <img alt="@sp.TENSP" src="~/Asset/images/@sp.ANHBIA"/>
+                        
+                   
+                    <div><br />
+                        <h4 style="text-align:center; color:black;">
+                            @sp.TENSP
+                        </h4>
+                    </div>
+                    <div class="ratings">
+                        <br />
+                        <p class="pull-right">0 reviews</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                        </p>
+                    </div>
+                </a> <br />
+                <p style="font-weight:bold; text-align:center"><span style="color:red; font-size:16pt">@String.Format("{0:0,0}", sp.GIABAN) VNĐ</span></p>
+                <div><br />
+                    <div>                        
+                        <div class="col-md-12" id="cart">
+                            <a style="float:right" href="@Url.Action("ThemGiohang","GioHang", new { @iMasp = sp.MASP, @strURL = Request.Url.ToString() })">
+                                Mua
+                            </a>
+                                                                
+                            <a style="float:left" href="@Url.Action("Details", "Store", new { id = sp.MASP })">
+                                Xem
+                            </a>                    
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    }
+    @*Tạo liên kết các trang*@
+    <div class="col-sm-12 ">       
+        Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount;
+        <div class="MenuTrang">
+            @Html.PagedListPager(Model,page=>Url.Action("Index", new {page = page }))
+        </div>
+        <style>
+            .MenuTrang li{
+                display:inline;
+            }
+            #cart a {
+                background-color: #2FDAB8;
+                color: white;
+                width: 100px;
+                height: 35px;
+                display: block;
+                text-align: center;
+                padding-top: 5px;
+                text-decoration: none;
+                font-weight:bold;
+            }
+
+            #cart a:hover {
+                background-color: white;
+                color: red;
+            }
+            
+        </style>
+    </div>
+

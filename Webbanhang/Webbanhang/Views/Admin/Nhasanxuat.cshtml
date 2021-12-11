@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Webbanhang.Models.NHASANXUAT>
+
+@{
+    ViewBag.Title = "Nhà sản xuất";
+    Layout = "~/Views/Shared/_LayoutPAdmin.cshtml";
+}
+<h2 style="text-align:center;">QUẢN LÝ NHÀ SẢN XUẤT</h2><br />
+<div class="container">
+
+    <p>
+        @Html.ActionLink("THÊM MỚI", "Themmoinsx")
+    </p>
+    <table class="table" border="1">
+        <tr>
+            <th>
+                Tên nhà sản xuất
+            </th>
+            <th>
+                Địa chỉ
+            </th>
+            <th>
+                Số điện thoại
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenNSX)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiaChi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DienThoai)
+                </td>
+                <td>
+                    @Html.ActionLink("Sửa", "Suansx", new { id = item.MaNSX }) |
+                    @Html.ActionLink("Xóa", "Xoansx", new { id = item.MaNSX })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

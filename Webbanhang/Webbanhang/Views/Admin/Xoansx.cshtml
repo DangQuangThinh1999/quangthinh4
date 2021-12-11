@@ -1,0 +1,50 @@
+﻿@model Webbanhang.Models.NHASANXUAT
+
+@{
+    ViewBag.Title = "Xoansx";
+    Layout = "~/Views/Shared/_LayoutPAdmin.cshtml";
+}
+<div class="container">
+    <h2>XÓA NHÀ SẢN XUẤT</h2>
+
+    <h3>Bạn muốn xóa?</h3>
+    <div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.TenNSX)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.TenNSX)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.DiaChi)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.DiaChi)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.DienThoai)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.DienThoai)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Xóa" class="btn btn-default" /> |
+                @Html.ActionLink("TRỞ VỀ", "Nhasanxuat")
+            </div>
+        }
+    </div>
+</div>

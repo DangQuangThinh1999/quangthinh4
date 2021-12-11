@@ -1,0 +1,41 @@
+﻿
+@model IEnumerable<Webbanhang.Models.SANPHAM>
+@{
+    ViewBag.Title = "Sản phẩm theo nhà sản xuất";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h3 style="text-align: center; color:red">SẢN PHẨM THEO NHÀ SẢN XUẤT</h3>
+<div class="row">
+    @foreach (var sp in Model)
+    {
+        <div class="col-sm-4 col-lg-1-lg-4 col-md-4">
+            <div class="thumbnail" style="height:400px;">
+                <a href="@Url.Action("Details", "Store", new { id = sp.MASP })">
+                    <img alt="@sp.TENSP" src="~/Asset/images/@sp.ANHBIA" width="200" />
+                    <div>
+                        <br />
+                        <h4 style="text-align:center">
+                            @sp.TENSP
+                        </h4>
+                        <p></p>
+                    </div>
+                    <div class="ratings">
+                        <br />
+                        <p class="pull-right">0 reviews</p>
+                        <p>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                            <span class="glyphicon glyphicon-star"></span>
+                        </p>
+                    </div>
+                </a>
+
+            </div>
+        </div>
+    }
+</div>
+
+
